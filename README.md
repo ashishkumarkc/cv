@@ -1,2 +1,2 @@
 # CV
-## Repository for https://cv.ashishkumarkc.com
+## Repository for https://ashishkumarkc.github.io/cv
